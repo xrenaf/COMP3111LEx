@@ -1,4 +1,4 @@
-package lab1;
+package Lab1;
 /* Comp3111Lex\Lab1\mainApp1.java
 Main application for Lab1 exercise */
 public class mainApp1 {
